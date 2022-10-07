@@ -3,10 +3,10 @@
   <img src="https://user-images.githubusercontent.com/115038430/193918430-2b09986a-cf53-47d9-a5f2-7e433c185468.png"> 
 </p>
 <p align="center">
-   <img alt="GitHub pull-requests" src="https://img.shields.io/github/issues-pr/beautifully-melodious/hacktoberfest2022">
+   <img alt="GitHub pull-requests" src="https://img.shields.io/github/issues-pr-raw/beautifully-melodious/hacktoberfest2022">
+   <img alt="GitHub pull-requests" src="https://img.shields.io/github/issues-pr-closed-raw/beautifully-melodious/hacktoberfest2022">
    <img alt="GitHub forks" src="https://img.shields.io/github/forks/beautifully-melodious/hacktoberfest2022">
    <img alt="contributors" src="https://img.shields.io/github/contributors/beautifully-melodious/hacktoberfest2022">
-   <img alt="GitHub stars" src="https://img.shields.io/github/stars/beautifully-melodious/hacktoberfest2022">
 </p>
 
 # What is Hacktoberfest?
