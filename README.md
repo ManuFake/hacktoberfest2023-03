@@ -3,10 +3,10 @@
   <img src="https://doimages.nyc3.cdn.digitaloceanspaces.com/002Blog/1100x640%20Hacktober%20fest%20header.png"> 
 </p>
 <p align="center">
-   <img alt="GitHub pull-requests" src="https://img.shields.io/github/issues-pr/beautifully-melodious/hacktoberfest2022">
-   <img alt="GitHub forks" src="https://img.shields.io/github/forks/beautifully-melodious/hacktoberfest2022">
-   <img alt="contributors" src="https://img.shields.io/github/contributors/beautifully-melodious/hacktoberfest2022">
-   <img alt="GitHub stars" src="https://img.shields.io/github/stars/beautifully-melodious/hacktoberfest2022">
+   <img alt="GitHub pull-requests" src="https://img.shields.io/github/issues-pr/ManuFake/hacktoberfest2023-03">
+   <img alt="GitHub forks" src="https://img.shields.io/github/forks/ManuFake/hacktoberfest2023-03">
+   <img alt="contributors" src="https://img.shields.io/github/contributors/ManuFake/hacktoberfest2023-03">
+   <img alt="GitHub stars" src="https://img.shields.io/github/stars/ManuFake/hacktoberfest2023-03">
 </p>
 
 # What is Hacktoberfest?
