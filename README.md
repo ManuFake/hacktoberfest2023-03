@@ -1,12 +1,12 @@
-<h1 align="center"> HACKTOBERFEST 2022</h1>
+<h1 align="center"> HACKTOBERFEST 2023</h1>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/115038430/193918430-2b09986a-cf53-47d9-a5f2-7e433c185468.png"> 
+  <img src="https://doimages.nyc3.cdn.digitaloceanspaces.com/002Blog/1100x640%20Hacktober%20fest%20header.png"> 
 </p>
 <p align="center">
-   <img alt="GitHub pull-requests" src="https://img.shields.io/github/issues-pr/beautifully-melodious/hacktoberfest2022">
-   <img alt="GitHub forks" src="https://img.shields.io/github/forks/beautifully-melodious/hacktoberfest2022">
-   <img alt="contributors" src="https://img.shields.io/github/contributors/beautifully-melodious/hacktoberfest2022">
-   <img alt="GitHub stars" src="https://img.shields.io/github/stars/beautifully-melodious/hacktoberfest2022">
+   <img alt="GitHub pull-requests" src="https://img.shields.io/github/issues-pr/ManuFake/hacktoberfest2023-03">
+   <img alt="GitHub forks" src="https://img.shields.io/github/forks/ManuFake/hacktoberfest2023-03">
+   <img alt="contributors" src="https://img.shields.io/github/contributors/ManuFake/hacktoberfest2023-03">
+   <img alt="GitHub stars" src="https://img.shields.io/github/stars/ManuFake/hacktoberfest2023-03">
 </p>
 
 # What is Hacktoberfest?
